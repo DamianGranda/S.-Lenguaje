@@ -1,5 +1,5 @@
 # Integrantes del grupo:
-- Agustin Di Carlo.
+-Agustin Di Carlo.
 
 -Lucas Figueroa.
 
@@ -9,4 +9,4 @@
 
 -Jonathan 
 
-- Damian Granda.
+-Damian Granda.
